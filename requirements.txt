@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+sqlalchemy
+aiosqlite
+bs4
+requests
+pydantic
+matplotlib
+pytest
